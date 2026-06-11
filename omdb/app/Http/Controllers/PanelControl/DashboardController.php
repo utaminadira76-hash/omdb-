@@ -1,11 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\controlpanel;
+namespace App\Http\Controllers\PanelControl;
 
 use App\Http\Controllers\Controller;
 
-
-class dashboardController extends Controller
+class DashboardController extends Controller
 {
     public function index()
     {
